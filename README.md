@@ -3,7 +3,7 @@ Future Accomplishment as a Web design
 After my studies in this course, I look forward to:
 
 - Build a website for my Sister growing business in Canada.
--Build a website for my Aunty bookshop back in Cameroon, Africa
+-Build a website for my Aunty bookshop back in Cameroon, Africa.
 - Build a website for my present company in Canada and make it very interactive to enable online payment can be done by customers.
 
 
