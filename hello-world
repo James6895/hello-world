@@ -1,12 +1,13 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
-<title>Hello World</title>
+<title>My first Hello World Web Page</title>
+<meta charset="utf-8">
 </head>
 <body>
 
-<h1>Let get it started</h1>
-<p>My first Paragraph</p>
+<h1>Hello World</h1>
+<p>By Nubila Mbetigi James</p>
 
 </body>
 </html>
